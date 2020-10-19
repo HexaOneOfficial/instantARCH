@@ -9,5 +9,5 @@
 instantARCH is a super lightweight and quick & easy to use installer for instantOS.
 
 <p align="center">
-  <img src="https://media.githubusercontent.com/media/instantOS/instantLOGO/master/screeenshots/instantarch.png">
+  <img src="https://media.githubusercontent.com/media/instantOS/instantLOGO/blob/screeenshots/instantarch.png">
 </p>
